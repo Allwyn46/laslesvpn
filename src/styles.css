@@ -3,3 +3,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.cusom_container {
+  margin-right: 100px;
+  margin-left: 100px;
+}
