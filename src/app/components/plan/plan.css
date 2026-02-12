@@ -1,0 +1,17 @@
+/* From Uiverse.io by SteveBloX */
+.navbutton {
+    /* width: 150px; */
+    /* height: 60px; */
+    border: 2px solid #f53838;
+    border-radius: 45px;
+    transition: all 0.3s;
+    cursor: pointer;
+    background: white;
+    color: #f53838;
+    padding: 9px 30px 9px 30px;
+}
+
+.navbutton:hover {
+    background: #f53838;
+    color: white;
+}
